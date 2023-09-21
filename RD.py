@@ -11,6 +11,7 @@ import re
 import sys
 import uuid
 import json
+os.system('git pull')
 #-------------color----------------#
 bblack="\033[1;30m"         # Black
 M="\033[1;31m"            # Red
